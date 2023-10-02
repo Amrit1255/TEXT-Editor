@@ -9,9 +9,10 @@ Using Different Tools Like HTML , CSS , JavaScript to make A real Time Text edit
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/ai-code-translator.git
+ https://github.com/Amrit1255/TEXT-Editor.git
 ```
 
 ## Contact
 
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
+If you have any questions, feel free to reach out to me on [Instagram](https://www.instagram.com/mr_amrit_t/).
+
